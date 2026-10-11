@@ -1,0 +1,22 @@
+# Secrets & credentials
+api_keys.txt
+credentials.json
+token.json
+*.env
+.env.*
+
+# Personal data
+my_messages.txt
+contacts.txt
+your_illness_data/
+medical_db/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
